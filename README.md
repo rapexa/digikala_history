@@ -14,9 +14,9 @@ This project is done as an educational project.
 
 # sms_verification
 
-[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green)](https://github.com/mgmgst/sms_serial_verification/blob/master/LICENSE) 
-[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/mgmgst/sms_serial_verification/blob/master/requirements.txt)
-[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/mgmgst/sms_serial_verification/blob/master/TODO.md)
+[![LICENSE](https://img.shields.io/badge/LICENSE-MIT-green)](https://github.com/rapexa/sms_serial_verification/blob/master/LICENSE) 
+[![Requirements](https://img.shields.io/badge/Requirements-See%20Here-orange)](https://github.com/rapexa/sms_serial_verification/blob/master/requirements.txt)
+[![Todo](https://img.shields.io/badge/Todo-See%20Here-success)](https://github.com/rapexa/sms_serial_verification/blob/master/TODO.md)
 
 <div dir="rtl"> 
  در این پروژه از تکنولوژی های زیر استفاده می شه :
